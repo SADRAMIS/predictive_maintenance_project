@@ -10,7 +10,7 @@
 содержащий 10 000 записей с 14 признаками. Подробное описание датасе можно найти в (https://archive.ics.uci.edu/dataset/601/predictive+maintenance+dataset)
 ## Установка и запуск
 1. Клонируйте репозиторий:
- git clone https://github.com/ChexRus/predictive_maintenance_project
+ git clone https://github.com/SADRAMIS/predictive_maintenance_project
 2. Установите зависимости:
  pip install -r requirements.txt
 3. Запустите приложение:
@@ -24,7 +24,7 @@
 - `README.md`: Описание проекта.
 - `video/`: Папка с видео-демонстрацией.
 ## Видео-демонстрация
-https://github.com/ChexRus/predictive_maintenance_project/blob/main/video/demo.mp4 или встроенное видео ниже:
+https://github.com/SADRAMIS/predictive_maintenance_project/blob/main/video/demo.mp4 или встроенное видео ниже:
 
 
 https://github.com/user-attachments/assets/1317b2b4-67a6-4b92-960d-0c2aa8324ad0
